@@ -21,9 +21,9 @@ Aplikasi ini dirancang untuk mempermudah proses pemesanan tiket kolam renang UNE
 - manifest.mf # Metadata aplikasi Java
 - mysql-connector-x.x.x.jar # Library konektor ke database MySQL
 - Jcalender  digunakan untuk kalender library, untuk menghubungkan neatbens java dengan kalender
--  - awal/ # Menyimpan semua frame aplikasi (login, signup, tiket, admin, dll)
-     |__ gambar/ # Menyimpan gambar-gambar antarmuka aplikasi
-      |__logo/ # Menyimpan ikon/logo aplikasi
+- awal/ # Menyimpan semua frame aplikasi (login, signup, tiket, admin, dll)
+- gambar/ # Menyimpan gambar-gambar antarmuka aplikasi
+- logo/ # Menyimpan ikon/logo aplikasi
 
 ##  Fitur Utama
 - Login & Sign Up (dengan validasi email dan password)
